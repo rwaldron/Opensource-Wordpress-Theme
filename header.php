@@ -36,6 +36,9 @@
   ?></title>
   <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
   <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'template_directory' ); ?>/oss.css" />
+
+  <link rel="stylesheet" type="text/css" media="all" href="/wp-content/plugins/prettify-gc-syntax-highlighter/prettify.css" />
+  
   <script src="http://code.jquery.com/jquery-1.4.4.js"></script>  
   <script src="https://github.com/webmademovies/popcorn-js/raw/master/popcorn.js"></script>  
   <!--

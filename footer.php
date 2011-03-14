@@ -57,5 +57,11 @@
 
   wp_footer();
 ?>
+
+
+<!-- wtf. -->
+<script src="/wp-content/plugins/prettify-gc-syntax-highlighter/prettify.js"></script>
+<script src="/wp-content/plugins/prettify-gc-syntax-highlighter/launch.js"></script>
+
 </body>
 </html>
